@@ -1,0 +1,6 @@
+projectKey=COM.CI.PRACTICE.G6
+serverUrl=http://localhost:9003
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9003/dashboard?id=COM.CI.PRACTICE.G6
+ceTaskId=AW8Sf_MFGjww9z0tb96Z
+ceTaskUrl=http://localhost:9003/api/ce/task?id=AW8Sf_MFGjww9z0tb96Z
